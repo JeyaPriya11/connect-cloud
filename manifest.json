@@ -848,8 +848,11 @@
     }
   },
   "files": {
+    ".RData": {
+      "checksum": "d801e6e837f4aef05e92021f5707bdfc"
+    },
     "app.R": {
-      "checksum": "43a411526dd47f64cd40914904c4654d"
+      "checksum": "932621de854eadf24f5038f859d3dc90"
     }
   },
   "users": null
